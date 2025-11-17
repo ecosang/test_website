@@ -1,0 +1,4 @@
+baseURL = 'https://ecosang.github.io/test_website'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme="theme-research-group"
