@@ -1,3 +1,6 @@
 [submodule "theme-research-group"]
 	path = theme-research-group
 	url = https://github.com/HugoBlox/theme-research-group.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git

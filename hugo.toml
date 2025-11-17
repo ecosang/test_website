@@ -1,4 +1,17 @@
 baseURL = 'https://ecosang.github.io/test_website'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme="theme-research-group"
+theme="PaperMod"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
+
+[params]
+  mainSections = ["posts"]

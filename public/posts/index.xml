@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/test_website/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/test_website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/test_website/posts/first-post/</link>
+      <pubDate>Mon, 27 Jan 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test_website/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-my-first-blog-post&#34;&gt;Welcome to My First Blog Post&lt;/h1&gt;
+&lt;p&gt;This is a dummy blog post created to demonstrate the blog functionality of your Hugo site.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;Here are some things you might want to include in your blog posts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Engaging content&lt;/strong&gt;: Write about topics that interest you and your readers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear structure&lt;/strong&gt;: Use headings and lists to organize your thoughts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visual elements&lt;/strong&gt;: Consider adding images or code examples&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tags and categories&lt;/strong&gt;: Help readers find related content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;code-example&#34;&gt;Code Example&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s a simple code example:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
